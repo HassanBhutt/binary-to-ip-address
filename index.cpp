@@ -236,7 +236,7 @@ int main()
     {
         cout << "Binary : " << binary_data << endl;
         cout << "The binary_data are correct" << endl;
-        cout << "Decimal Dotted Notation : " << decimal_dotted_notation << endl;
+        cout << "Decimal Dotted Notation: " << decimal_dotted_notation << endl;
         if (oneBit == "0")
         {
             cout << "Address Class A" << endl;
