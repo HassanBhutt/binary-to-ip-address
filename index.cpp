@@ -275,5 +275,7 @@ int main()
         cout << "The binary_data are incorrect";
     }
 
+    cout << "Testing branch in git" << endl;
+
     return 0;
 }
